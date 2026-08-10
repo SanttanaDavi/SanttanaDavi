@@ -1,34 +1,35 @@
 # Olá, eu sou David Santana
 
-## Analista Financeiro | Estudante de Ciência de Dados
+## Assistente Financeiro | Estudante de Ciência de Dados
 
-Atualmente trabalho na área financeira e venho desenvolvendo minha transição para a área de dados, unindo conhecimento financeiro, análise de informações, programação e automação de processos.
+Atualmente trabalho na área financeira e estou direcionando minha carreira para a área de dados.
 
-Tenho interesse em transformar problemas reais em soluções utilizando tecnologia e dados.
+Tenho experiência prática com processos financeiros, análise de informações e automação de tarefas, utilizando tecnologia para tornar processos mais eficientes.
 
-### Tecnologias e ferramentas
+## Conhecimentos e ferramentas
 
 - Python
 - Pandas
-- SQL
 - Excel
+- SQL
 - Power BI
+- Tableau
 - Selenium
 - Automação de processos
 - Análise de dados
 
-### Projetos
+## Projetos
 
-Estou construindo meu portfólio com projetos voltados para:
+Meu portfólio reúne projetos relacionados a:
 
 - Automação de processos financeiros
-- Análise e tratamento de dados
-- Dashboards e indicadores
-- Automação com Python
-- SQL
-- Ciência de Dados
+- Tratamento e análise de dados
+- Desenvolvimento de dashboards
+- Automação com Python e Selenium
+- Soluções utilizando Excel e Python
+- Análise de oportunidades de automação
 
-### Atualmente estudando
+## Atualmente estudando
 
 - Python
 - SQL
@@ -38,10 +39,10 @@ Estou construindo meu portfólio com projetos voltados para:
 - Power BI
 - Tableau
 
-### Objetivo
+## Objetivo profissional
 
-Desenvolver minha carreira na área de dados, evoluindo da análise e automação de processos para Data Science.
+Desenvolver minha carreira na área de dados, utilizando minha experiência na área financeira como base para atuar com análise de dados e, posteriormente, evoluir para Ciência de Dados.
 
-### Contato
+## Contato
 
 [LinkedIn](https://www.linkedin.com/in/davidsantossantana/)
