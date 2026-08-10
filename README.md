@@ -43,4 +43,4 @@ Desenvolver minha carreira na área de dados, evoluindo da análise e automaçã
 
 ### Contato
 
-[LinkedIn](https://www.linkedin.com/in/davidsantossa/)
+[LinkedIn](https://www.linkedin.com/in/davidsantossantana/)
