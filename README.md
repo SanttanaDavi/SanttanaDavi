@@ -30,12 +30,13 @@ Estou construindo meu portfólio com projetos voltados para:
 
 ### Atualmente estudando
 
-- Python para análise de dados
+- Python
 - SQL
+- Análise de dados
+- Ciência de Dados
 - Estatística
 - Power BI
-- Machine Learning
-- Ciência de Dados
+- Tableau
 
 ### Objetivo
 
