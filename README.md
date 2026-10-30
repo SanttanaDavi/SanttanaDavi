@@ -11,7 +11,6 @@ Tenho experiência prática com processos financeiros, análise de informações
 - Python
 - Pandas
 - Excel
-- SQL
 - Power BI
 - Tableau
 - Selenium
